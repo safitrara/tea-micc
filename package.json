@@ -1,6 +1,6 @@
 {
   "name": "tea-micc",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "tea micc",
   "main": "index.js",
   "scripts": {
@@ -12,7 +12,8 @@
   },
   "dependencies": {
     "minti_fulkerson": "1.0.0",
-    "cj-component": "1.0.0"
+    "cj-component": "1.0.0",
+    "cccards-list": "1.0.0"
   },
   "author": "",
   "license": "ISC",
