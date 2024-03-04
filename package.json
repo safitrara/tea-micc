@@ -1,0 +1,23 @@
+{
+  "name": "tea-micc",
+  "version": "1.0.0",
+  "description": "tea micc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/safitrara/tea-micc.git"
+  },
+  "dependencies": {
+    "minti_fulkerson": "1.0.0",
+    "cj-component": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/safitrara/tea-micc/issues"
+  },
+  "homepage": "https://github.com/safitrara/tea-micc#readme"
+}
