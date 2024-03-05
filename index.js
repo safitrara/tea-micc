@@ -3,7 +3,6 @@ window.SpeechRecognition = window.SpeechRecognition || window.webkitSpeechRecogn
     if (window.SpeechRecognition) {
       const recognition = new SpeechRecognition();
       recognition.lang = 'en-US';
-
       recognition.onresult = (event) => {
         const transcript = event.results[0][0].transcript;
         document.getElementById('result').textContent = `You said: ${transcript}`;
